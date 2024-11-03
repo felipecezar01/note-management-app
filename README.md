@@ -10,7 +10,7 @@ Ano passado, em 2023, eu tentei fazer minha primeira aplicação com Docker junt
   <img src="./friend.gif" alt="img" />
 </p>
 
-Dito isto, quero informar que estou deixando Kubernetes de lado por um tempo. Mais uma vez, ele ganhou a batalha. Mas pretendo reencontrá-lo em 2025 para mais um duelo – não vai ficar barato!
+Dito isso, quero informar que estou deixando Kubernetes de lado por um tempo. Mais uma vez, ele ganhou a batalha. Mas pretendo reencontrá-lo em 2025 para mais um duelo – não vai ficar barato!
 
 <p align="center">
   <img src="./away.gif" alt="img" />
